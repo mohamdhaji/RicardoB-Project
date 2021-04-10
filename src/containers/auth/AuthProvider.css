@@ -1,0 +1,24 @@
+.authprovider {
+    float: right;
+    clear: none;
+    text-align: right;
+    margin: 0 10px 0 0;
+}
+
+.authprovider-icon {
+    /* clear: both; */
+    float: left;
+    margin: 14px 0 0 0;
+}
+
+.authprovider-info {
+    float: left;
+    margin: 28px 0 0 10px;
+    height: 45px;
+}
+
+@media screen and (max-width: 1120px) {
+    .authprovider {
+        display: none;
+    }
+}

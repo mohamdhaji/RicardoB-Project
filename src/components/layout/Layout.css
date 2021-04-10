@@ -1,0 +1,16 @@
+/* .flex-container {
+    display: flex;
+} */
+
+/* .flex-container > div {
+    margin: 100px;
+    padding: 200px;
+    font-size: 30px;
+} */
+
+.layout {
+    margin-left: 280px;
+    margin-right: 10px;
+    /* border-color: blue;
+    border-style: dashed; */
+}

@@ -1,0 +1,17 @@
+.spinner-container {
+    float: left;
+    padding: 8px 0 0 15px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.spinner-img {
+    float: left;
+    clear: both;
+}
+
+.spinner-lbl {
+    float: left;
+    clear: none;
+    padding: 15px 0 0 10px;
+}

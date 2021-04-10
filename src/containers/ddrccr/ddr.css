@@ -1,0 +1,29 @@
+.ddr {
+    margin: 10px 10px 10px 15px;
+    background-color: rgba(245, 245, 245);
+    border: 1px solid rgba(176,196,222);
+    border-radius: 5px;
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+}
+
+.grid-item {
+    /* background-color: rgba(224,224,224); */
+    /* border: 1px solid rgba(0, 0, 0, 0.8); */
+    padding: 5px 12px 0px 12px;
+    font-size: 30px;
+    text-align: Left;
+}
+
+.grid-item-btn {
+    /* background-color: rgba(224,224,224); */
+    /* border: 1px solid rgba(0, 0, 0, 0.8); */
+    padding: 20px 12px 0px 12px;
+    font-size: 30px;
+    text-align: left;
+}
